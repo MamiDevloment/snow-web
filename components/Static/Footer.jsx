@@ -105,7 +105,7 @@ export default function Footer() {
                                 </p>
                         </div>
                         <p className="text-white text-center sm:text-right text-opacity-50">
-                            {"Powered by Nodesty ❤️"}
+                            {"SnowBOT❤️"}
                         </p>
                     </div>
                 </div>
