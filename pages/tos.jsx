@@ -14,7 +14,7 @@ export default function Tos() {
 <div className="py-3"></div>
 <p>⊳ Botu kullanırken diğer kullanıcılara zarar verecek şekilde trol amaçlı kullanamazsınız.</p>
 <div className="py-3"></div>
-<p>⊳ To use certain discord bot commands, you need to vote for the <a className="text-white" href="https://top.gg/bot/774043716797071371/vote">SnowBOT</a> bot at certain intervals.</p>
+
 </div>
     </div>
   );
