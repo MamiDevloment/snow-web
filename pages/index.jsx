@@ -10,7 +10,7 @@ export default function Index() {
       <img width="500" src="/img/bck.png" />
       </div>
         <p className="animateHeader text-4xl font-extrabold text-center text-white">
-         TAHA ABİ NABER
+          MusicMaker
         </p>
         <p className="animateHeader text-white text-opacity-50 text-center mt-5">
        How about moderating your own server with MusicMaker? Create your own free world and create your own playlist, experience this pleasure with the best sounds. 
@@ -28,7 +28,8 @@ export default function Index() {
             </Link>
   <div className="py-10"></div>
   <Link href={"https://top.gg/bot/774043716797071371/vote"}>
- 
+  <a className={" px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " }>
+Vote MusicMaker</a>
   </Link>
         </div>
 
@@ -39,7 +40,6 @@ export default function Index() {
         <Image  width="600" height="600" src="/img/gift-right.png"  />
         </div>
       </div>
-
 
 
       <div className="grid grid-cols-1 lg:grid-cols-12 gap-y-12 lg:gap-y-0 lg:gap-x-12 py-24">
