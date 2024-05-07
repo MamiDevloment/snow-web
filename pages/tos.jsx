@@ -14,5 +14,7 @@ export default function Tos() {
 <div className="py-3"></div>
 <p>⊳ Botu kullanırken diğer kullanıcılara zarar verecek şekilde trol amaçlı kullanamazsınız.</p>
 <div className="py-3"></div>
+<p>⊳ Botu kullanırken diğer kullanıcılara zarar verecek şekilde trol amaçlı kullanamazsınız.</p>
+<div className="py-3"></div>
   );
 }
